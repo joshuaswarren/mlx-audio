@@ -735,3 +735,7 @@ WAV format works without ffmpeg.
 ## Acknowledgements
 
 - [Apple MLX Team](https://github.com/ml-explore/mlx) for the MLX framework
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
